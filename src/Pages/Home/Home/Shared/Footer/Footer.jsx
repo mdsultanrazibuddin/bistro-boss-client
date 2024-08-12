@@ -23,7 +23,8 @@ const Footer = () => {
     </p>
   </aside>
   <nav>
-    <h6 className="footer-title">Social</h6>
+    <h1 className="footer-title">Follow Us</h1>
+    <h5 className="footer-title">Join us on social media</h5>
     <div className="grid grid-flow-col gap-4">
       <a>
         <svg
